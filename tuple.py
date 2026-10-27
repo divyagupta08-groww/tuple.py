@@ -1,0 +1,6 @@
+tuple4 = (9,3,3,3,3,3,3,3,3,3,"d",2,3,3,2,33,233,23,23,23)
+print(tuple4.count("d"))
+tuple4 = tuple4 +("gupta",)
+print(tuple4)
+tuple1 = (1,2,3,3,4,"vidit")
+print(tuple1[3:6])   
